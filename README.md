@@ -1,3 +1,5 @@
+![Image Alt](https://github.com/SplatAce/SplatAce/blob/247a0ee29cbd96823dc3da1dd3e319b88ae87030/Madeleine.Cookie.full.4212806.jpg)
+
 hi we system
 <!--
 **SplatAce/SplatAce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
